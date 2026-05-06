@@ -30,3 +30,32 @@ print ("Valor:", numero_inteiro)
 print ("Tipo:", type(numero_inteiro))
 
 print ("-----------------------------")
+
+# EXEMPLO 2 - NUMERO DECIMAL
+
+# Float é um número com ponto decimal 
+numero_decimal = 3.14 
+
+print ("Valor:", numero_decimal) 
+print ("Tipo:", type(numero_decimal)) 
+
+print ("-----------------------------")
+
+# EXEMPLO 3 - NUMEROS COMPLEXOS
+# Um número complexo smepre possui duas partes:
+# Parte real (número real)
+# Parte imaginária (multiplicada por j)
+
+# Estrutura Geral: 
+# numero = a + bj 
+
+# a > parte real
+# b > parte imaginária 
+# j > unidade imaginária 
+
+numero_complexo = 2 + 3j 
+
+print ("Valor:", numero_complexo) 
+print ("Tipo:", type(numero_complexo)) 
+
+print ("------------------------------")
