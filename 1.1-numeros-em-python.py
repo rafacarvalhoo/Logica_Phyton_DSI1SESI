@@ -42,7 +42,7 @@ print ("Tipo:", type(numero_decimal))
 print ("-----------------------------")
 
 # EXEMPLO 3 - NUMEROS COMPLEXOS
-# Um número complexo smepre possui duas partes:
+# Um número complexo sempre possui duas partes:
 # Parte real (número real)
 # Parte imaginária (multiplicada por j)
 
