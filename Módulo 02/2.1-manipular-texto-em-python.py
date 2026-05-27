@@ -121,3 +121,8 @@ frase = "copa 2002"
 
 # Divide a string em uma lista
 print(frase.split(" "))
+
+
+# -------------------------
+# 8) FORMATAÇÃO DE STRINGS
+# -------------------------
