@@ -13,8 +13,20 @@ h2 {
 
 p{
     font-size:2em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight:  bold;
+   line-height: 2em;
+   /* Espaçamento entre as linhas */
+        
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+
+  }
+
+span {
+    font-size: 2em;
+    color:rgb(181, 88, 12)
 }
 
 /* ------------------------------------------------- */
@@ -26,5 +38,12 @@ p{
 
 /* 5VW - 5% da largura da tela / isso faz om que o tamanho do texto se ajuste ao tamanho da tela, MUITO útil para design responsivo */
 /* ------------------------------------------------- */
+
+/* ------------------------------------------------- */
+/* Controla a grossura (negrito) do texto
+100 = Super fino
+400 = Normal
+700 = Negrito 
+900 = Super */
 
 }   
