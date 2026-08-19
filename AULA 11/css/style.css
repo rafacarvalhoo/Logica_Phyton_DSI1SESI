@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 244, 207);
+}
+
+#paragrafo1 {
+
+    color: rgb(198, 93, 93);
+ 
+ font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 30px
+
+}
+/* CLASES */
+/* Atributos HTML que adiciona o identificador reutilizável na TAG. Esse identificador pode ser utilizado no CSS para selecionarmos o(s) elemento(s): */
+
+.titulo{
+    color: rgb(124, 21, 21);
+}
