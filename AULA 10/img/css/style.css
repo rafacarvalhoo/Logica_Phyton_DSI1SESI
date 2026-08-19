@@ -1,0 +1,30 @@
+body {
+background-color:rgb(255, 221, 177);
+
+h1 {
+    color:rgb(233, 163, 78);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    font-weight: 900;
+}
+h2 {
+    font-size: 3em;
+}
+
+p{
+    font-size:2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:  bold;
+}
+
+/* ------------------------------------------------- */
+/* PX (pixels) é uma unidade fixa. O tamanho sempre será o mesmo, independente do tamanho da tela. */
+
+/* 2EM - O dobro do tamanho padrão, significa que ele é o multiplicador do tamanho da base*/
+
+/* 120% - 20% maior que o padrão */
+
+/* 5VW - 5% da largura da tela / isso faz om que o tamanho do texto se ajuste ao tamanho da tela, MUITO útil para design responsivo */
+/* ------------------------------------------------- */
+
+}   
