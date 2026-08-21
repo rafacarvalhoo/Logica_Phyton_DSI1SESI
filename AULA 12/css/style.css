@@ -13,10 +13,11 @@
     height: 100px;
     background-color: rgb(179, 218, 243);
     border: 8px solid rgb(91, 170, 201);
+    border-radius: 20px;
     padding-top: 10px; /*EM CIMA*/
     padding-right: 40px; /*SÓ NA DIREITA*/
     padding-bottom: 20px; /*EM BAIXO*/
     padding-left: 25px; /*SÓ NA ESQUERDA*/
-    
+
 
 }
