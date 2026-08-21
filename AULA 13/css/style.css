@@ -21,16 +21,33 @@ h2 {
 /* Ocupa toda a largura disponível (ex: div, p, h1) */
 .block {
     display: block;
-    background-color: rgb(230, 173, 222);
+    background-color: rgb(238, 190, 232);
     padding: 15px;
     margin: 10px;
     border: 2px solid rgb(189, 18, 166);
 }
 
-.inline{
-    display: inline-block;
-    background-color: rgb(175, 212, 233);
+
+/* -------------------------- */
+/* INLINE */
+/* -------------------------- */
+/* Ocupa só o espaço do conteúdo */
+.inline {
+    display: inline;
+    background-color: rgb(173, 200, 230);
     padding: 15px;
     margin: 10px;
-    border: 2px solid rgb(23, 114, 189);
+    border: 2px solid rgb(24, 118, 196);
+}
+
+/* -------------------------- */
+/* INLINE BLOCK*/
+/* -------------------------- */
+/* Ocupa só o espaço do conteúdo, mas permite definir largura e altura */
+.inline-block {
+    display: inline-block;
+    background-color: rgb(202, 173, 230);
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid rgb(95, 18, 196);
 }
